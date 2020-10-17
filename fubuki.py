@@ -9,7 +9,7 @@ def main():
     window = tk.Tk()
 
     # Give it a title
-    window.title('My Frist Python GUI')
+    window.title('My Frist Python GUI App')
 
     # Change the background color
     window.configure(background='#fefefe')
